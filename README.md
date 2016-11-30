@@ -6,7 +6,7 @@
 ## เกริ่นนำเรื่อง Git
 
 ```
-Git อ่านว่า “กิท” ไม่ใช่ กฤษณ์ ที่เป็นดารา แต่เป็น… (เดี่ยวเฉลย)
+Git อ่านว่า "กิท" ไม่ใช่ 'กฤษณ์' ที่เป็นดารา แต่เป็น… (เดี่ยวเฉลย)
 ```
 
 ก่อนอื่นขอเท้าแชร์ให้ฟัง …เฮยๆ ไม่ช่ายแหละ ต้องเท้าความให้ฟัง ถึงท่านที่เป็นโปรแกรมเมอร์ (หรือไม่ได้เป็นก็ไม่เป็นไร แต่ถ้าน่าตาดีถือว่าผ่าน) พี่ๆ เพื่อนๆ ลองนึกถึงเวลาที่เราพัฒนาซอฟต์แวร์เป็นทีม มีโปรแกรมเมอร์ 2-3 คน หรือ 5-10 หรือ 10-100 คน หรือมากกว่านั้น เวลาที่พวกเราต้องยุ่งกับซอร์สโค้ดของโปรเจคเดียวกัน …คิดดูดิยิ่งหลายมือปัญหาก็จะมากความใช่ป่ะ! 
@@ -19,7 +19,7 @@ Git อ่านว่า “กิท” ไม่ใช่ กฤษณ์ ท
 สรุป Git มันคือ Version Control
 ```
 
-ใครไม่รู้จักคำว่า Version Control ลองอ่านสองลิงค์นี้ดู
+ใครไม่รู้จักคำว่า Version Control ลองอ่านสองลิงค์นี้ดูได้
 
 * https://th.wikipedia.org/wiki/การควบคุมการปรับปรุงแก้ไข
 * https://git-scm.com/book/th/v1/เริ่มต้นใช้งาน-เกี่ยวกับ-Version-Control
@@ -53,7 +53,7 @@ Git อ่านว่า “กิท” ไม่ใช่ กฤษณ์ ท
 
 แน่นอน! ส่วนใหญ่โปรเจคที่เอามาเก็บไว้ที่ GitHub ส่วนใหญ่ก็มักเป็น Open source  เสียด้วยซิ และรูปข้างล่างคือบริษัทระดับโลกที่ Opensource โปรเจคตัวเอง มาไว้ที่นี้ตรึมเลย
 
-![บริษัทที่ใช้ GitHub] https://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/09/Microsoft-tops-GitHubs-list-of-orgs-with-open-source-contributors.jpg
+![บริษัทที่ใช้ GitHub](https://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/09/Microsoft-tops-GitHubs-list-of-orgs-with-open-source-contributors.jpg)
 
 
 ## การใช้ GitHub เบื้องต้น
@@ -65,11 +65,11 @@ Git อ่านว่า “กิท” ไม่ใช่ กฤษณ์ ท
 ### สร้าง Repository ขึ้นมา
 
 ตามรูปเมื่อล็อกอินแอคเคาท์เราไปในเข้าเว็บแล้ว ก็น่าจะเห็นมุมขวามือ ให้คลิกเครื่องหมาย "+" ต่อด้วยกด "New repository"
-![สร้าง repository]( images/new_repository_edit.png)
+![สร้าง repository](images/new_repository_edit.png)
 
 จากนั้นก็จะเห็นหน้าถัดไปทำนองนี้
 
-![ตั้งชื่อ repository]( images/repository_name_edit.png)
+![ตั้งชื่อ repository](images/repository_name_edit.png)
 * ตรง Repository name -> ชื่อของ Repository ตั้งเป็นอะไร ก็ได้ในตัวอย่างตั้งเป็น "learning-git"
 * ช่อง Description จะใส่หรือไม่ก็ได้
 * แนะนำให้ติ๊กถูก "Initialize this repository with a README"
@@ -77,7 +77,7 @@ Git อ่านว่า “กิท” ไม่ใช่ กฤษณ์ ท
 
 หลังจากนี้ก็จะถือว่าเสร็จแล้วตามรูปข้างล่าง และในตัวอย่างนี้ผมก็จะได้ URL https://github.com/adminho/learning-git 
 เอาไว้ใช้เข้าถึง Repository ที่สร้างขึ้นมานั้นเอง
-![repository]( images/your_repository_edit)
+![repository](images/your_repository_edit)
 
 ## อ้างอิง
 * https://guides.github.com/activities/hello-world/
